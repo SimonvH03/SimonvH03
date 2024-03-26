@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm working on the Codam curriculum.
+
 I'm experimenting with different ways to organize project;
   how to use Makefiles, custom libraries like <a target="_blank" href="https://github.com/SimonvH03/libft_utd.git">Libft</a>, and how to structure subdirectories
 I especially enjoyed the <a target="_blank" href="https://github.com/SimonvH03/fdf.git">FdF</a> project.
