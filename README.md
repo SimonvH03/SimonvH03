@@ -2,7 +2,7 @@
 
 I'm working on the Codam curriculum.
 
-I just wrote a game in C in three weeks, check it out <a href="https://github.com/SimonvH03/Cub3d.git">here</a> ;)
+I just wrote a game in C in three weeks, check it out <a href="https://github.com/SimonvH03/Cub3d.git">here</a>
 
 I really enjoyed the <a href="https://github.com/SimonvH03/fdf.git">FdF project</a>, it inspired me to write <a href="https://github.com/SimonvH03/Cub3d.git">Cub3d</a> in my free time.
 
