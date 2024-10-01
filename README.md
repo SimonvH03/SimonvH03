@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm working on the Codam curriculum.
+I'm working on the Codam curriculum since october 2023.
 
 I just wrote a game in C in three weeks, check it out <a href="https://github.com/SimonvH03/Cub3d.git">here</a>
 
