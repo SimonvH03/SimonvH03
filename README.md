@@ -2,9 +2,7 @@
 
 I'm working on the Codam curriculum since october 2023.
 
-Currently busy with Cub3d, a C based Raycasting video game, check it out <a href="https://github.com/SimonvH03/Cub3d.git">here</a>
-
-I really enjoyed the <a href="https://github.com/SimonvH03/fdf.git">FdF project</a>, my first graphical project ever.
+I created two graphical projects I'm particularly pleased with as part of this course: <a href="https://github.com/SimonvH03/Cub3d.git">Cube3D</a> and <a href="https://github.com/SimonvH03/fdf.git">FdF</a>.
 
 Starting the curriculum with no prior experience I've found it works wonders to discuss ideas with others, however stupid or complicated they might seem.
 <!--
