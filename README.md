@@ -2,7 +2,7 @@
 
 I'm working on the 42 Codam Core curriculum since october 2023.
 
-I created two graphical projects I'm particularly pleased with as part of this course: <a href="https://github.com/SimonvH03/Cub3d.git">Cube3D</a> and <a href="https://github.com/SimonvH03/fdf.git">FdF</a>.
+I created two graphical projects I'm particularly pleased with as part of this course: <a href="https://github.com/SimonvH03/cub3d.git">Cube3D</a> and <a href="https://github.com/SimonvH03/fdf.git">FdF</a>.
 
 I'm currently working on porting my Cub3D project to C++, because I wanted to experiment with more features/different types of graphics, but found the C89 version was not quite modular enough for that. I hope this also helps me transfer my experience in C to build a strong foundation in C++.
 
